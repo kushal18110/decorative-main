@@ -1,7 +1,5 @@
 import React from 'react'
-import {BiPhone} from 'react-icons/bi'
-import { BiRightArrowAlt } from 'react-icons/bi'
-
+import {BiRightArrowAlt, BiPhone} from 'react-icons/bi'
 const Filling = () => {
   return (
     <div className='mt-[50px]'>

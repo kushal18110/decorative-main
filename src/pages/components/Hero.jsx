@@ -1,5 +1,7 @@
 import React from "react";
-import { BiRightArrowAlt } from "react-icons/bi";
+import {BiRightArrowAlt} from 'react-icons/bi'
+
+
 const Hero = () => {
   return (
     <div className=" " >

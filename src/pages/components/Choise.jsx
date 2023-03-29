@@ -1,6 +1,5 @@
 import React, { useState } from "react";
-import { BiChevronLeft, BiChevronRight } from "react-icons/bi";
-
+import { BiChevronLeft, BiChevronRight} from 'react-icons/bi'
 const Choise = () => {
   const slides = [
     {

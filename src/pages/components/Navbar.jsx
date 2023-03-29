@@ -1,9 +1,5 @@
 import React, { useState } from "react";
-import { BiPhone } from "react-icons/bi";
-import { BiSearch } from "react-icons/bi";
-import { BiUser } from "react-icons/bi";
-import { BiChevronDown, BiMenu, BiX } from "react-icons/bi";
-
+import { BiChevronDown, BiMenu, BiX , BiUser ,BiSearch ,BiPhone} from 'react-icons/bi'
 const Navbar = () => {
   const [nav, setNav] = useState(false);
 

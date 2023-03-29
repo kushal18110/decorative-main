@@ -1,9 +1,8 @@
 import React from "react";
-import {  SlSocialInstagram,
+import {SlSocialInstagram,
   SlSocialFacebook,
   SlSocialLinkedin,
   SlSocialTwitter,} from 'react-icons/sl'
-
 const Bottombar = () => {
   return (
     <div className="max-w-[1240px] mx-auto mb-8 mt-8">

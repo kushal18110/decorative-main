@@ -1,5 +1,5 @@
 import React from 'react'
-import { BiRightArrowAlt } from 'react-icons/bi'
+import {BiRightArrowAlt} from 'react-icons/bi'
 const Company = () => {
   return (
     <div className="  md:flex md:justify-center md:gap-8">
