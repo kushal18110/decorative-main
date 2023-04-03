@@ -9,7 +9,7 @@ const Bottombar = () => {
       <div className="block md:flex   md:justify-evenly">
         <div className=" flex flex-col gap-3 mb-4 text-center items-center md:text-left md:items-start">
           <div className=" flex gap-3 items-center justify-center">
-            <img src="./images/logo-2.png" alt="" className="w-7 h-7" />
+            <img src="./images/logo.svg" alt="" className="w-7 h-7" />
             <h1 className=" text-2xl font-bold">Decorative</h1>
           </div>
           <p>Lorem ipsum dolor sit amet, consectetur a</p>

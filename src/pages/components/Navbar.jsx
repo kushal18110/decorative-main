@@ -10,7 +10,7 @@ const Navbar = () => {
   return (
     <div className="flex items-center justify-between mx-auto max-w-[1240px]   ">
       <div className="flex gap-2 items-center h-10">
-        <img src="./images/logo-2.png" alt="" className="w-7 h-7" />
+        <img src="./images/logo.svg" alt="" className="w-7 h-7" />
         <h1 className=" text-2xl font-bold">Decorative</h1>
       </div>
       <div className=" hidden md:flex ">
